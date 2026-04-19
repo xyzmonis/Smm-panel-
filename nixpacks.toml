@@ -1,8 +1,0 @@
-[phases.build]
-cmds = []
-
-[phases.install]
-cmds = []
-
-[start]
-cmd = "php -S 0.0.0.0:$PORT -t ."
